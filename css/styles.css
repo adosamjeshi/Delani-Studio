@@ -1,0 +1,59 @@
+.logo{
+    text-align: center;
+    background-image: url(../IP3/assets/backgrounds/h_img.jpg);
+    height: 700px;
+    width: 100%;
+    color: white;
+    font-size: 30px;
+    padding-top: 10%;
+}
+.person{
+    text-align: center;
+    display: inline-block;
+}
+.mauano{
+    text-align: center;
+    padding-top: 3%;
+}
+.wanoko{ 
+    text-align: center;
+    background-image: url(../IP3/assets/backgrounds/s_image.jpg);
+    height: 400px;
+    font-size: 30px;
+    color: white;
+    padding-top: 3%;
+}
+.noma{
+    text-align: center;
+    padding-top: 3%;
+}
+.whatWeDo{
+    text-align: center;
+}
+.wewe{
+    text-align: start;
+}
+.mimi{
+    text-align: center;
+}
+.yeye{
+    text-align: end;
+}
+.momo{
+    text-align: center;
+}
+.momo{
+    padding-top: 3px;
+    font-size: 30px;
+    text-align: center;
+}
+.mmo{
+    background-image: url(/IP3/assets/backgrounds/c_image.jpg);
+    text-align: center;
+    font-size: 30px;
+    padding-top: 3px;
+    height: 400px;
+}
+body{
+    overflow-x: hidden;
+}
