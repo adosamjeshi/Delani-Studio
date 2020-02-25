@@ -14,7 +14,7 @@ ADAN MOHAMED
 
 so far there is no any bug but if found any please share.
 # THE PROJECT LINK
- you can find my project on:https://feisalahmed.github.io/Delani/
+ you can find my project on: https://adosamjeshi.github.io/Delani-Studio/
 # BDD
 - This application is used as a portfolio to showcase previous projects that one has done well.
 - It is also used to advertise a bussiness like this Delani Studio.
