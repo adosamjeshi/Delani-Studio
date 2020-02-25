@@ -1,6 +1,6 @@
 .logo{
     text-align: center;
-    background-image: url(../IP3/assets/backgrounds/h_img.jpg);
+    background-image: url("../imgs/h_img.jpg");
     height: 700px;
     width: 100%;
     color: white;
@@ -17,7 +17,7 @@
 }
 .wanoko{ 
     text-align: center;
-    background-image: url(../IP3/assets/backgrounds/s_image.jpg);
+    background-image: url("../imgs/s_image.jpg");
     height: 400px;
     font-size: 30px;
     color: white;
@@ -52,7 +52,7 @@ body{
     overflow-x: hidden;
 }
 .section4{
-  background-image: url(../IP3/assets/backgrounds/c_image.jpg);
+  background-image: url("../imgs/c_image.jpg");
   text-align: center;
   height: 50vh;
 }
