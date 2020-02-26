@@ -65,12 +65,7 @@ input[type=text]{
     background: transparent;
     color:white;
   }
-  /* .img-fluid portfolio pt-3{
-    display:block;
-    margin-left:auto;
-    margin-right:auto;
-    width:70%;
-  } */
+
   #footer{
     height:40px;
     align-items: center;
@@ -85,9 +80,6 @@ input[type=text]{
     justify-content: center;
     text-align: center;
   }
-  /* .one{
-      display: none;
-  } */
   h1{
     text-align: center;
   }
@@ -107,6 +99,3 @@ input[type=text]{
     align-items: center;
     justify-content: center;
   }
-  /* p{
-    text-align: center;
-  } */
