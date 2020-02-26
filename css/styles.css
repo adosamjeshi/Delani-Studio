@@ -99,3 +99,6 @@ input[type=text]{
     align-items: center;
     justify-content: center;
   }
+  .container-fluid{
+    text-align: center;
+  }
